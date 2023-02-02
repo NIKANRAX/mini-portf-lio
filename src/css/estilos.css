@@ -1,5 +1,5 @@
 body{
-    background-image: url(../imagens/fundo-site.jpg);
+    background-image: url(../imagens/5026563.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -15,9 +15,9 @@ body{
 }
 
 .cartao{
-    background-color: #070d12;
+    background-color: #171530a1;
     width: 370px;
-    border: 2px solid #e126d9;
+    border: 2px solid #000000;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -38,7 +38,7 @@ body{
     width: 96px;
     height: 96px;
     border-radius: 50px;
-    border: 4px solid #02d08f ;
+    border: 4px solid #65a1f0 ;
 }
 
 .cartao .minhas-informacoes .nome{
@@ -70,15 +70,15 @@ body{
     width: 30px;
 }
 .cartao .abas .aba.selecionada{
-    background-color: #262626;
+    background-color: #979797;
 }
 
 .cartao .informacoes-abas{
-    background-color: #262626;
+    background-color: #26262600;
 }
 
 .cartao .abas .aba:hover{
-    background-color: #414141;
+    background-color: #ffffff93;
 }
 
 .informacoes-abas .informacao {
@@ -105,7 +105,7 @@ body{
 }
 
 .informacoes-abas .descricao span{
-    color:#02d08f;
+    color:#000000;
 }
 
 .redes-sociais{
@@ -132,14 +132,14 @@ body{
 }
 
 .redes-sociais .curriculo{
-    background-color: #02d08f;
+    background-color: #65a1da;
 }
 
 .redes-sociais .linkedin{
-    background-color: #1d87bd;
+    background-color: #4262ce;
 }
 
 .redes-sociais .github{
-    background-color: #545454 ;
+    background-color: #18055c ;
+    
 }
-
